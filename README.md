@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @epichl25. I'm an electronics engineer.
+- 👋 Hi, I’m @epichl25. I'm an electronic engineer.
 - 👀 I’m interested in embedded systems, IoT, networking, and electronics.
 - 🌱 I’m currently learning embedded software development and electronics design.
 
